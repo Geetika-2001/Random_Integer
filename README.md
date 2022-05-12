@@ -1,5 +1,5 @@
 ## Random_Integer Task: 
-A SHOW button displays array containing integers on screen , 
+A array containing integers is displayed on the screen through the SHOW Button , 
 the task is to display an array in which two randomly chosen numbers 
 from the array are interchanged when the STOP button is pressed.
 ## Demo
